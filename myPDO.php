@@ -19,7 +19,6 @@
  *
  * 19/04/2013 19:23:05 
  */
-if(!defined('SCRIPT')) exit('No direct access allowed!!');
 $mypdo_err = array(
 1 => '<h1>php database object not found!</h1>',
 2 => 'You must define the hostname, database name, username and password',

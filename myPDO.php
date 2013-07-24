@@ -180,7 +180,6 @@ class myPDO{
 	/*
 	 *
 	 * name: function get_val
-	 * @param: string $sql
 	 * @param: intiger $x (col index nember start from o)
 	 * @return intiger
 	 * @access public

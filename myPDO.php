@@ -135,8 +135,7 @@ class myPDO{
 	 *
 	 * name: function fetch
 	 * @param: string $sql
-	 * @param: array $param (list of parametre as an array)
-	 * @param: string $DATAtype (ARR or OBJ),
+	 * @param: string $type (ARR or OBJ),
 	 * @return array or object
 	 * @access public
 	 *
@@ -182,7 +181,6 @@ class myPDO{
 	 *
 	 * name: function get_val
 	 * @param: string $sql
-	 * @param: array $param (list of parametre as an array)
 	 * @param: intiger $x (col index nember start from o)
 	 * @return intiger
 	 * @access public
